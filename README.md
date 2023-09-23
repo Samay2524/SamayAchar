@@ -1,6 +1,6 @@
 # Samay Achar
 
-![Samay Achar's Image](URL_TO_YOUR_IMAGE)  <!-- Replace URL_TO_YOUR_IMAGE with an actual image URL -->
+![Samay Achar's Image](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/raw/main/1689477293733.jpeg)
 
 ---
 
