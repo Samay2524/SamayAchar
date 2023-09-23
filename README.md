@@ -1,6 +1,6 @@
 # Samay Achar
 
-![Samay Achar's Image](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/raw/main/1689477293733.jpeg)
+![Samay Achar's Image](https://github.com/Samay2524/SamayAchar/blob/9d7aac7bacace1652094470e59e2f4c29eb0b012/1689477293733.jpeg)
 
 ---
 
