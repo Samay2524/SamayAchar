@@ -1,57 +1,35 @@
-# 👋 Hey there, I'm Samay Achar! 
+# Samay Achar
 
-📍 **Location:** Troy, MI  
-📞 **Phone:** (248) 433-6685  
-📧 **Email:** [samay.achar@gmail.com](mailto:samay.achar@gmail.com)  
-🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samay-achar-081962238)
+![Samay Achar's Image](URL_TO_YOUR_IMAGE)  <!-- Replace URL_TO_YOUR_IMAGE with an actual image URL -->
 
 ---
 
-## 🎓 Education
+## 🙋‍♂️ About Me
 
-🏛 **Michigan State University**  
-🎓 **Bachelor of Science, Computer Science; Minor, Business**  
-📅 **Graduating Dec 2024**  
-📊 **GPA: 3.86/4.0** (All Semesters Dean’s List)
+Hello! I'm Samay, a passionate individual with a background in Computer Science and a keen interest in Cybersecurity. I'm currently pursuing my Bachelor's degree from Michigan State University. When I'm not diving into the world of technology, you can find me playing tennis or attending various tech events and conferences.
 
 ---
 
-## 💼 Work Experience
+## 🚀 What I'm Doing Now
 
-### **DENSO INTERNATIONAL AMERICA, INC. DIAM, Southfield Michigan**
-
-#### Cybersecurity Intern (May 2023 – Aug 2023)
-
-- 🛡 Introduced new vulnerability tracking, **increasing time-to-resolution by 25%**
-- 🚀 Established a Vulnerability disclosure program, **increasing disclosed vulnerabilities by 10%**
-
-#### Technical Co-Op 2 (May 2022 – Aug 2022)
-
-- 🛠 Hardware Validation of the RFK (Key Fob) for MY 2023 Volvo EV and ICE vehicles
-- 💻 Used Vehicle Spy Panel tool for CAN communication
-
-### **Security, Networking, and Mobile Systems Research (SNMS), Michigan State University**
-
-#### Research Assistant (May 2023 – Present)
-
-- 📊 Conducted an in-depth security analysis of IMS services on Android
-- 🤖 Implemented data preprocessing module in Python for machine learning analysis against wireless traffic
-
-### **ARI Integrated Engineering Solutions, East Peoria, Illinois**
-
-#### Engineering Intern (Jun 2021 – Aug 2021)
-
-- 💡 Verified successful software update by flashing new firmware to ECU
-- 🤝 Worked directly with senior engineers, learning about teamwork and collaboration
+- **Research Assistant** at Security, Networking, and Mobile Systems Research (SNMS), Michigan State University
+- Actively involved in projects related to security analysis of IMS services on Android and machine learning analysis against wireless traffic.
 
 ---
 
-## 🏆 Achievements & Involvement
+## 🏆 Certifications & Awards
 
-- 🛡 **7th Place** in 2023 MITRE Embedded Security Capture the Flag
-- 🎙 Attended 2023 ESCAR Conference and AutomotiveNEXT Intern Event
-- 📜 Certification from Apple Foundation Program and Design and Attack Phases from MITRE
-- 🎾 MSU Club Tennis, Spartan Hacker, Spartan Analytics Consulting Group, and many more...
+- **Apple Foundation Program** Certification
+- **Design and Attack Phases** from MITRE
+- **7th Place** in 2023 MITRE Embedded Security Capture the Flag
+
+---
+
+## 🛠 Project Work
+
+- **2023 MITRE Embedded Security Capture the Flag:** Designed and implemented a secure system using public-key cryptography.
+- **Apple Foundation Program, MSU:** Designed an app for seamless receipt capture and storage.
+- **Bank Account Calculator, MSU:** Designed a C++ program mimicking a bank account calculator.
 
 ---
 
@@ -62,12 +40,9 @@
 
 ---
 
-## 🛠 Projects
+## 📬 Contact Me
 
-- **2023 MITRE Embedded Security Capture the Flag**
-  - 🛡 Designed and implemented a secure system using public-key cryptography
-- **Apple Foundation Program, MSU**
-  - 📱 Designed an app for seamless receipt capture and storage
-- **Bank Account Calculator, MSU**
-  - 💰 Designed a C++ program mimicking a bank account calculator
-
+📍 **Location:** Troy, MI  
+📞 **Phone:** (248) 433-6685  
+📧 **Email:** [samay.achar@gmail.com](mailto:samay.achar@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/samay-achar-081962238)
