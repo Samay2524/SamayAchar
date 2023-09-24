@@ -1,7 +1,21 @@
-# Samay Achar
+<div align="center">
+    <h1>Samay Achar</h1>
+    <img src="https://github.com/Samay2524/SamayAchar/blob/cfb348b49e72149fa2e4cb002b9ee5a43e494b13/logo1.png" alt="Club Logo" width="100">
+</div>
 
-<img src="https://github.com/Samay2524/SamayAchar/blob/9d7aac7bacace1652094470e59e2f4c29eb0b012/1689477293733.jpeg" alt="Samay Achar's Image" width="300">  <!-- Change 400 to desired width -->
----
+<h3 align="center">My Socials</h3>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samay-achar-081962238)
+
+<img src="https://github.com/Samay2524/SamayAchar/blob/9d7aac7bacace1652094470e59e2f4c29eb0b012/1689477293733.jpeg" alt="Samay Achar's Image" width="300">
+
+</div>
+
+
+
+
 
 ## 🙋‍♂️ About Me
 
@@ -43,5 +57,4 @@ Hello! I'm Samay, a passionate individual with a background in Computer Science 
 
 📍 **Location:** Troy, MI  
 📞 **Phone:** (248) 433-6685  
-📧 **Email:** [samay.achar@gmail.com](mailto:samay.achar@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/samay-achar-081962238)
+📧 **Email:** [samay.achar@gmail.com](mailto:samay.achar@gmail.com)
