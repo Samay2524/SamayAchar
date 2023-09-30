@@ -34,7 +34,7 @@ Hello! I'm Samay, a passionate individual with a background in Computer Science 
 
 ## 🏆 Certifications & Awards
 
-- **Apple Foundation Program** Certification
+- <a href="https://github.com/Samay2524/SamayAchar/blob/1c72e9df8a444f669f91368cd28e6ba2171db769/AppleCertification.jpg">Apple Foundation Program Certification</a>
 - **Design and Attack Phases** from MITRE
 - **7th Place** in 2023 MITRE Embedded Security Capture the Flag
 
