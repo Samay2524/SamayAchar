@@ -47,7 +47,7 @@ Hello! I'm Samay, a passionate individual with a background in Computer Science 
 
 ## 🛠 Project Work
 
-- **2023 MITRE Embedded Security Capture the Flag:** Designed and implemented a secure system using public-key cryptography, digital signatures, and elliptic curve cryptography to establish the authenticity and integrity of protected data.
+- [2023 MITRE Embedded Security Capture the Flag](https://github.com/Samay2524/SamayAchar/blob/7c7938ff4e0e267e0e32405696bcf8495dc4e002/2023_eCTF_MSU_Poster%20(1).pdf)- Designed and implemented a secure system using public-key cryptography, digital signatures, and elliptic curve cryptography to establish the authenticity and integrity of protected data.
 - **Apple Foundation Program, MSU:** Designed an app for seamless receipt capture and storage.
 - **Bank Account Calculator, MSU:** Designed a C++ program mimicking a bank account calculator.
 
