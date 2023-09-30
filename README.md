@@ -25,7 +25,7 @@ Hello! I'm Samay, a passionate individual with a background in Computer Science 
 
 ## 🚀 What I'm Doing Now
 
-- **Research Assistant** at Security, Networking, and Mobile Systems Research (SNMS), Michigan State University
+- **Research Assistant** at Security, Networking, and Mobile Systems Research (**[SNMS Lab](https://www.cse.msu.edu/~ghtu/research-projects.html)**), Michigan State University
 - Actively involved in projects related to security analysis of IMS services on Android and machine learning analysis against wireless traffic.
 
 ---
